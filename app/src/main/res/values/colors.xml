@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#173561</color>
+    <color name="colorPrimaryDark">#173561</color>
+    <color name="colorPrimaryVarient">#3185FF</color>
+    <color name="colorPrimaryLight">#A7CAFF</color>
+    <color name="colorAccent">#e6e6e6</color>
+    <color name="colorSecondary">#f8a429</color>
+    <color name="colorSecondaryDark">#f8a429</color>
+    <color name="colorSecondaryVarient">#FFCB7F</color>
+    <color name="colorSecondaryLight">#FFF9F0</color>
+
+    <color name="mtrl_textinput_default_box_stroke_color">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_text">#ECEFF1</color>
+    <color name="green">#0B3900</color>
+    <color name="red">#D80F0F</color>
+    <color name="off_white">#fbfbfb</color>
+    <color name="gray_dark">#263238</color>
+    <color name="gray_medium">#808080</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="gray_light">#E5E5E5</color>
+    <color name="white50">#8CFFFFFF</color>
+</resources>
